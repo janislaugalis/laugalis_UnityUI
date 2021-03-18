@@ -1,5 +1,5 @@
 # laugalis_UnityUI
-- [ ] Projekta iesākšana
+- [x] Projekta iesākšana
 - [ ] Pievienot vārdu un vecumu
 - [ ] Pievienot 2 cilvēkus
 - [ ] Apģērbu kategorijas
